@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "house-manager", "house-manager\house-manager.csproj", "{8F43F94F-AC2D-48BE-B926-BB900AD18A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "house-manager.Tests", "house-manager.Tests\house-manager.Tests.csproj", "{F0E7ED2F-DC9D-4651-A447-F68DBB1501AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F43F94F-AC2D-48BE-B926-BB900AD18A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F43F94F-AC2D-48BE-B926-BB900AD18A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F43F94F-AC2D-48BE-B926-BB900AD18A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F43F94F-AC2D-48BE-B926-BB900AD18A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E7ED2F-DC9D-4651-A447-F68DBB1501AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E7ED2F-DC9D-4651-A447-F68DBB1501AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E7ED2F-DC9D-4651-A447-F68DBB1501AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E7ED2F-DC9D-4651-A447-F68DBB1501AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
